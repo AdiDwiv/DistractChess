@@ -114,7 +114,6 @@ class Distract  {
     
     func getRandomAlpha()  {
         let n = CGFloat(randomize(start: 8, end: 12)) * 0.1
-        print(n)
         if n > 1 {
             alpha = 1.0
         }
