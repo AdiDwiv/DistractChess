@@ -2,7 +2,7 @@
 ### General information
 * DistractChess is a two-player chess game with a morphing interface desgined to distract players and make it harder to focus. 
 * Developed by Aditya Dwivedi (ad629@cornell.edu)
-* DistractChess offers 644 different possible UI combinations.
+* DistractChess offers 644 possible UI combinations.
 
 ### Screenshots:
 ![Alt text](https://cloud.githubusercontent.com/assets/22662617/21818831/45c193ac-d78f-11e6-847a-dd9b831b3c2d.png)
@@ -13,7 +13,7 @@
 
 
 ####Credits:-
-* Patterns (taken from colorlovers.com):
+* Patterns (taken from colourlovers.com):
   * Disoriented by orph15and ycc2106
   * RGB Short Circuit by m0ddie
   * Colorful confusion by sugary and yoksel
@@ -49,5 +49,5 @@
 
 * Sounds (taken from freesounds.org under the attribution license)-
   * soul- death.mp3  by loudest
-  * Human death scream.mp3by DjCHAOS
+  * Human death scream.mp3 by DjCHAOS
   
