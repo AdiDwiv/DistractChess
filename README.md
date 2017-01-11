@@ -1,6 +1,6 @@
 # DistractChess
 ### General information
-* DistractChess is a two-player chess game with a morphing interface desgined to distract players and make it harder to focus. 
+* DistractChess is a two-player chess game with a morphing interface designed to distract players and make it harder to focus. 
 * Developed by Aditya Dwivedi (ad629@cornell.edu)
 * DistractChess offers 644 possible UI combinations.
 
